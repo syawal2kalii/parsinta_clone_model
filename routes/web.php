@@ -29,4 +29,4 @@ Route::get('/contact', function () {
 
 Route::get('/user', 'UserController@index');
 
-//baru
+//baru lagi
