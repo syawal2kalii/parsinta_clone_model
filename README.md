@@ -1,9 +1,8 @@
-<h1>Blade Template Laravel</h1>
+<h1>Laravel Model</h1>
 <p>Overview</p>
   <ul>
-  <li>Introduction Blade</li>
-  <li>Structure</li>
-  <li>Extends</li>
-  <li>Include</li>
-
+  <li>Introduction</li>
+  <li>Create Model(manual,artisan)</li>
+  <li>fetch data using model</li>
+  <li>Passing and show data</li>
   </ul>
