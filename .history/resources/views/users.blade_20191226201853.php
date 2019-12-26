@@ -15,9 +15,8 @@
         @foreach ($data as $users)
             <tr>
                 <td>{{$users['nama']}}</td>
-                <td>{{$users['kelas']}}</td>
+                <td>{{$users['Kelas']}}</td>
                 <td>{{$users['Alamat']}}</td>
-                
             </tr>
         @endforeach
         </table>

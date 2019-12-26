@@ -17,7 +17,6 @@
                 <td>{{$users['nama']}}</td>
                 <td>{{$users['kelas']}}</td>
                 <td>{{$users['Alamat']}}</td>
-                
             </tr>
         @endforeach
         </table>

@@ -13,12 +13,9 @@
                 <th>Alamat</th>
             </tr>
         @foreach ($data as $users)
-            <tr>
-                <td>{{$users['nama']}}</td>
-                <td>{{$users['kelas']}}</td>
-                <td>{{$users['Alamat']}}</td>
-                
-            </tr>
+            <tr class="td"></tr>
+            <tr class="td"></tr>
+            <tr class="td"></tr>
         @endforeach
         </table>
     </div>   
