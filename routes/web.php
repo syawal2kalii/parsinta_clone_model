@@ -27,6 +27,6 @@ Route::get('/contact', function () {
     return view('contack');
 });
 
-Route::get('/user', 'UserController@index');
+Route::get('/user', 'UserController@index')->name('users');
 
 //baru lagi
