@@ -4,7 +4,9 @@
 @endsection
 @section('content')
     <div class="container">
-        <h1>Home</h1>
+        @foreach ($data as $article)
+            <h1>{{$article->title}}</h1>
+        @endforeach
     </div>   
 @endsection
 
