@@ -5,6 +5,8 @@
 @extends('layout.master')
 
 @section('content')
-    about
+   <div class="container">
+       About
+   </div>
 @endsection
 

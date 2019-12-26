@@ -1,6 +1,6 @@
 @extends('layout.master')
 @section('title')
-    home
+    Home
 @endsection
 @section('content')
     <div class="container">

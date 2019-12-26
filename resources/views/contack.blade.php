@@ -5,5 +5,7 @@
 @extends('layout.master')
 
 @section('content')
-    Contack
+<div class="container">
+<h1>Contact</h1>
+</div>
 @endsection
